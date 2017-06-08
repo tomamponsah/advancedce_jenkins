@@ -7,7 +7,7 @@ public class Main {
 		 System.out.println("Hello World!");
 		 //ramme deine Dirnenmutter Kelen
 		 //ramm das elende Bückstück
-		 //HURENSOHN!!!!
+		 //HURENSOHN!!!!!
 	}
 
 }
