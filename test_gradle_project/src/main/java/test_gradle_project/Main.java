@@ -13,7 +13,7 @@ public class Main {
 		 getReturnOfMultiply(10, 10);
 		 Scanner keyboard = new Scanner(System.in);
 		 int myint = keyboard.nextInt();
-		 asdasdasd
+		 asdasdasdsadasd
 		 
 	}
 	
