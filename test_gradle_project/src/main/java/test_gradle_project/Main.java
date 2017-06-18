@@ -22,9 +22,9 @@ public class Main {
 		int product = factor_1 * factor_2;
 		System.out.println(factor_1 + " * " + factor_2 + " = " + product );
 		//funktionsfähiger return:
-		return product;
+		//return product;
 		//offensichtlich defekter return:
-		//return (product + 1);
+		return (product + 1);
 	}
 	
 	public static int getReturnOfMultiply(int a, int b)
