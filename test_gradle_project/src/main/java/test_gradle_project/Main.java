@@ -25,6 +25,7 @@ public class Main {
 		return product;
 		//offensichtlich defekter return:
 		//return (product + 1);
+		//mal ein angemessener Kommentar
 	}
 	
 	public static int getReturnOfMultiply(int a, int b)
