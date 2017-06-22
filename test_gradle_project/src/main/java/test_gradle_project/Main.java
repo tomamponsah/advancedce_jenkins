@@ -1,19 +1,13 @@
 package test_gradle_project;
+//Kilians Mutter ist eine reizende Dame.
 
-import java.util.Scanner;
+
 
 public class Main {
 
 	public static void main(String[] args) {
 		
-		 System.out.println("Hello World!");
-		 //ramme deine Dirnenmutter Kelen
-		 //ramm das elende Bückstück
-		 //HURENSOHN!!!!!
-		 getReturnOfMultiply(10, 10);
-		 Scanner keyboard = new Scanner(System.in);
-		 int myint = keyboard.nextInt();
-		 //asdasdasdsadasd
+		 int product = multiply(10, 10);
 		 
 	}
 	
@@ -22,11 +16,18 @@ public class Main {
 		int product = factor_1 * factor_2;
 		System.out.println(factor_1 + " * " + factor_2 + " = " + product );
 		//funktionsfähiger return:
-		return product;
+		//return product;
 		//offensichtlich defekter return:
-		//return (product + 1);
+		return (product + 1);
 		//mal ein angemessener Kommentar
 	}
+	
+	
+	
+	
+	
+	
+	
 	
 	public static int getReturnOfMultiply(int a, int b)
 	{
