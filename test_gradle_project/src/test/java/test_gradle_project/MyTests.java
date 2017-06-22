@@ -2,6 +2,7 @@ package test_gradle_project;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
+//mein voller Ernst
 
 public class MyTests {
 

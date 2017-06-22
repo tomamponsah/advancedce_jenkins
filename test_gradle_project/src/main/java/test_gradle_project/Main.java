@@ -1,5 +1,5 @@
 package test_gradle_project;
-//Kilians Mutter ist eine reizende Dame.
+//Kilians Mutter ist eine reizende Dame
 
 
 
