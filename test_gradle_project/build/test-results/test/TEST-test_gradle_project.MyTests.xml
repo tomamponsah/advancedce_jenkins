@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test_gradle_project.MyTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-22T11:35:03" hostname="Promethium" time="0.003">
+<testsuite name="test_gradle_project.MyTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-06-22T15:24:17" hostname="Promethium" time="0.005">
   <properties/>
-  <testcase name="multiplicationOfZeroIntegersShouldReturnZero" classname="test_gradle_project.MyTests" time="0.003"/>
+  <testcase name="multiplicationOfZeroIntegersShouldReturnZero" classname="test_gradle_project.MyTests" time="0.005"/>
   <system-out><![CDATA[10 * 0 = 0
 0 * 10 = 0
 0 * 0 = 0
